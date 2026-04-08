@@ -43,5 +43,5 @@ O "Guardião dos Mares" será um aplicativo mobile que funciona como um hub de f
 ### **Protótipo Inicial**
 O design das telas foi projetado para refletir a temática oceânica, utilizando componentes modernos em tons de azul.
 
-🔗 **[Acesse aqui o Protótipo no Figma](COLE_AQUI_O_LINK_DO_SEU_FIGMA)**
+🔗 **[Acesse aqui o Protótipo no Figma](https://www.figma.com/proto/xv5WrsyUugrtZso5WxHzPz/ODS_Projeto?node-id=0-1&t=QjxNF9cJnRMOi7x7-1)**
 
